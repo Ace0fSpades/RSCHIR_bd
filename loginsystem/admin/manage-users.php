@@ -94,6 +94,21 @@ echo "<script>alert('Data deleted');</script>";
                                 </table>
                             </div>
                         </div>
+                        <h3>Добавить пользователя</h3>
+<form action="create.php" method="post">
+    <p>Имя:
+    <input type="text" name="name" required/></p>
+    <p>Фамилия:
+    <input type="text" name="fname" required/></p>
+    <p>Почта:
+    <input type="text" name="email" required/></p>
+    <p>Пароль:
+    <input type="password" name="pass" required/></p>
+    <p>Телефон:
+    <input type="text" name="tnum" required/></p>
+    
+    <input type="submit" value="Добавить">
+</form>
                     </div>
                 </main>
   <?php include('../includes/footer.php');?>

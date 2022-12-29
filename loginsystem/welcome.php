@@ -28,7 +28,7 @@ if (strlen($_SESSION['id']==0)) {
                         <h1 class="mt-4">Таблица</h1>
                         <hr />
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item active">Таблица</li>
+                            <li class="breadcrumb-item active">Панель</li>
                         </ol>
 
 <?php 

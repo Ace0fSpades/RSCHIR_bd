@@ -17,7 +17,7 @@
                         <li><a class="dropdown-item" href="#!">Настройки</a></li>
                         <li><a class="dropdown-item" href="#!">Лог активности</a></li>
                         <li><hr class="dropdown-divider" /></li>
-                        <li><a class="dropdown-item" href="#!">Выход</a></li>
+                        <li><a class="dropdown-item" href="logout.php">Выход</a></li>
                     </ul>
                 </li>
             </ul>

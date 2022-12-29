@@ -67,7 +67,7 @@ exit();
 
 
 <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-<a class="small" href="password-recovery.php">Забыли пароль?</a>
+<a class="small" href="../password-recovery.php">Забыли пароль?</a>
 <button class="btn btn-primary" name="login" type="submit">Войти</button>
 </div>
 </form>
